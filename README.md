@@ -1,2 +1,2 @@
 # fourier-transform
-programs do fourier transform related tasks
+Python programs do fourier transform related tasks
